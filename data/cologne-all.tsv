@@ -1,3 +1,4 @@
+<?php header("Access-Control-Allow-Origin: *"); ?>
 cost	time	mode
 49.64	7.12	"train"
 55.98	7.2	"train"
